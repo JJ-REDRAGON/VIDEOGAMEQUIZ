@@ -13,7 +13,7 @@ if (lc=="mario") {
 
 else{
 
-	alert("wrong answer")
+	alert("wrong answer, answer: Mario")
 }
 
 var q2= prompt("2. what is the most famous game from 2019 to 2020?");
@@ -26,7 +26,7 @@ if (lc=="minecraft") {
 
 else{
 
-	alert("wrong answer")
+	alert("wrong answer, answer: Minecraft")
 }
 
 var q3= prompt("3. what was the first video game?");
@@ -38,7 +38,7 @@ if (lc=="pong") {
 }
 
 else{
-	alert("wrong answer")
+	alert("wrong answer, answer: Pong")
 }
 
 var q4= prompt("4. what was the most famous Emote of Fortnite?");
@@ -51,7 +51,7 @@ if (lc=="floss") {
 
 else{
 
-	alert("wrong answer")
+	alert("wrong answer, answer: floss")
 }
 
 var q5= prompt("5. what is the most famous server in Minecraft?");
@@ -64,7 +64,7 @@ if (lc=="hypixel") {
 
 else{
 
-	alert("wrong answer")
+	alert("wrong answer, answer: hypixel")
 }
 
 var q6= prompt("6. who is the smartest minecraft player");
@@ -77,7 +77,7 @@ if (lc=="dream") {
 
 else{
 
-	alert("wrong answer")
+	alert("wrong answer, answer: Dream")
 }
 
 var q7= prompt("7. what video game was made into a cartoon at 2003?");
@@ -90,7 +90,7 @@ if (lc=="sonic the hedghog"){
 
 else{
 
-	alert("wrong answer")
+	alert("wrong answer, answer: Sonic The Hedghog")
 }
 
 var q8= prompt("7. what video game was ban in pakistan, but came back?");
@@ -103,7 +103,7 @@ if (lc=="pubg") {
 
 else{
 
-	alert("wrong answer")
+	alert("wrong answer, answer: PubG")
 }
 
 var q9= prompt("9. what Game was Ban in the UAE?");
@@ -116,7 +116,7 @@ if (lc=="roblox") {
 
 else{
 
-	alert("wrong answer")
+	alert("wrong answer, answer: Roblox")
 }
 
 var q10= prompt("10. What was the year of the release date of Fortnite?");
@@ -129,7 +129,7 @@ if (lc=="2017") {
 
 else{
 
-	alert("wrong answer")
+	alert("wrong answer, answer: 2017")
 }
 
 var q11= prompt("11. which year was smg added to fortnite?");
@@ -142,7 +142,7 @@ if (lc=="2018") {
 
 else{
 
-	alert("wrong answer")
+	alert("wrong answer, answer: 2018")
 }
 
 var q12= prompt("12. who were the creators of Mario?");
@@ -155,7 +155,7 @@ if (lc=="nintendo") {
 
 else{
 
-	alert("wrong answer")
+	alert("wrong answer, answer: Nintendo")
 }
 
 var q13= prompt("13. Which year was the legendary and pump shotgun added to fortnite?");
@@ -168,7 +168,7 @@ if (lc=="2018") {
 
 else{
 
-	alert("wrong answer")
+	alert("wrong answer, answer: 2018")
 }
 
 var q14= prompt("14. who were the creators of Sonic the hedghog?");
@@ -181,7 +181,7 @@ if (lc=="sega") {
 
 else{
 
-	alert("wrong answer")
+	alert("wrong answer, answer: Sega")
 }
 
 var q15= prompt("15. What Was the theme of Chapter 1 Season 8 of fortnite?");
@@ -194,7 +194,7 @@ if (lc=="pirates") {
 
 else{
 
-	alert("wrong answer")
+	alert("wrong answer, answer: Pirates")
 }
 
 var q16= prompt("16. What is the rarest glider in fotnite?");
@@ -207,7 +207,7 @@ if (lc=="rainbow rider") {
 
 else{
 
-	alert("wrong answer")
+	alert("wrong answer, answer: Rainbow Rider")
 }
 
 var q17= prompt("17. Who were the creators of Minecraft?");
@@ -220,7 +220,7 @@ if (lc=="mojang") {
 
 else{
 
-	alert("wrong answer")
+	alert("wrong answer, answer: Mojang")
 }
 
 var q18= prompt("18. Who were the creators of Fortnite?");
@@ -233,7 +233,7 @@ if (lc=="epic games") {
 
 else{
 
-	alert("wrong answer")
+	alert("wrong answer, answer: Epic Games")
 }
 
 var q19= prompt("19. Who were the creators of PubG?");
@@ -246,7 +246,7 @@ if (lc=="pubg corporation") {
 
 else{
 
-	alert("wrong answer")
+	alert("wrong answer, answer: PUBG Corporation")
 }
 
 var q20= prompt("20. Who were the creators of Free Fire?");
@@ -259,7 +259,7 @@ if (lc=="garena") {
 
 else{
 
-	alert("wrong answer")
+	alert("wrong answer, answer: Garena")
 }
 
 var q21= prompt("21. What are the competitors of Free Fire?");
@@ -272,7 +272,7 @@ if (lc=="pubg") {
 
 else{
 
-	alert("wrong answer")
+	alert("wrong answer, answer:PUBG")
 }
 
 var q22= prompt("22. What is your favourite Game?");
@@ -285,7 +285,7 @@ if (lc=="mojang") {
 
 else{
 
-	alert("Cool")
+	alert("Cool!")
 }
 
 
