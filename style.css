@@ -1,0 +1,15 @@
+button
+{
+	font-size: 40px;
+	border-radius: 10px;
+	font-family: Poppins;
+	background-color: white;
+	color: darkred;
+	margin: 200px;
+}
+
+button:hover
+{
+	background-color: black;
+	color: lightgreen;
+}
