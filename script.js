@@ -82,7 +82,7 @@ else{
 
 var q7= prompt("7. what video game was made into a cartoon at 2003?");
 lc=q7.toLowerCase();
-if (lc=="sonic the hedghog") (lc=="sonic") {
+if (lc=="sonic the hedghog") (lc2=="sonic") {
 
 	alert("Correct answer")
 	score++;
