@@ -4,7 +4,7 @@ button
 	border-radius: 10px;
 	font-family: Poppins;
 	background-color: white;
-	color: darkblue;
+	color: darkred;
 	margin: 200px;
 }
 
@@ -14,7 +14,7 @@ button:hover
 	color: lightgreen;
 }
 
-.background
+body
 {
 	background-image: url(https://hometeq.ca/wp-content/uploads/2020/01/gaming-guide.jpg);
 	width: 100%;
