@@ -13,3 +13,8 @@ button:hover
 	background-color: black;
 	color: lightgreen;
 }
+
+body
+{
+	background-image: url(https://hometeq.ca/wp-content/uploads/2020/01/gaming-guide.jpg);
+}
