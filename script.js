@@ -56,7 +56,7 @@ else{
 
 var q5= prompt("5. what was the rumor on Minecraft in 2010?");
 lc=q5.toLowerCase();
-if (lc=="herobrine") {
+if (lc=="herobrine") (lc=="Herobrine") (lc=="HeroBrine"){
 
 	alert("Correct answer")
 	score++;
