@@ -54,7 +54,7 @@ else{
 	alert("wrong answer")
 }
 
-var q5= prompt("5. what is the famous server in Minecraft?");
+var q5= prompt("5. what is the most famous server in Minecraft?");
 lc=q5.toLowerCase();
 if (lc=="hypixel") {
 
