@@ -1,7 +1,7 @@
 function quiz(){
 	alert("Video Game Quiz!")
 	alert("answer 23 questions!")
-	alert("Hey Lets Begin")
+	alert("Lets Begin")
 var q1= prompt("1. which was first? Mario or Sonic?");
 var score=0;
 lc=q1.toLowerCase();
