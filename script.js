@@ -277,7 +277,7 @@ else{
 
 var q22= prompt("22. What are the competitors of Free Fire?");
 lc=q22.toLowerCase();
-if (lc=="PubG") {
+if (lc=="PUBG") {
 
 	alert("Correct answer")
 	score++;
