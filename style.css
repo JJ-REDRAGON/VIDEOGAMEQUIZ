@@ -3,14 +3,14 @@ button
 	font-size: 40px;
 	border-radius: 10px;
 	font-family: Poppins;
-	background-color: white;
+	background-color: lightgreen;
 	color: darkred;
 	margin: 40px;
 }
 
 button:hover
 {
-	background-color: black;
+	background-color: darkred;
 	color: lightgreen;
 }
 
