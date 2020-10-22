@@ -41,9 +41,9 @@ else{
 	alert("wrong answer, answer: Pong")
 }
 
-var q4= prompt("4. what was the most famous Emote of Fortnite in 2018?");
+var q4= prompt("4. what was the most famous Emote of Fortnite?");
 lc=q4.toLowerCase();
-if (lc=="floss") {
+if (lc=="Dance Moves") {
 
 	alert("Correct answer")
 	score++;
