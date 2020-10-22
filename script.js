@@ -3,8 +3,8 @@ function quiz(){
 	alert("answer 22 questions!")
 	alert("Lets Begin")
 var q1= prompt("1. which was first? Mario or Sonic?");
-var score=0;
-lc=q1.toLowerCase();
+var score=0
+c=q1.toLowerCase();
 if (lc=="mario") {
 
 	alert("Correct anwser");
@@ -41,7 +41,7 @@ else{
 	alert("wrong answer, answer: Pong")
 }
 
-var q4= prompt("4. what was the most famous Emote of Fortnite?");
+var q4= prompt("4. what was the most famous Emote of Fortnite in 2018?");
 lc=q4.toLowerCase();
 if (lc=="floss") {
 
@@ -67,7 +67,7 @@ else{
 	alert("wrong answer, answer: hypixel")
 }
 
-var q6= prompt("6. who is the smartest minecraft player");
+var q6= prompt("6. who is the smartest minecraft Youtuber?");
 lc=q6.toLowerCase();
 if (lc=="dream") {
 
