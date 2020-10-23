@@ -184,7 +184,7 @@ else{
 	alert("wrong answer, answer: Sega")
 }
 
-var q15= prompt("15. What Was the theme of Chapter 1 Season 8 of fortnite?");
+var q15= prompt("15. What Was the theme of Chapter 1 Season 8 of Fortnite?");
 lc=q15.toLowerCase();
 if (lc=="pirates") {
 
@@ -197,7 +197,7 @@ else{
 	alert("wrong answer, answer: Pirates")
 }
 
-var q16= prompt("16. What is the rarest glider in fotnite?");
+var q16= prompt("16. What is the Rarest glider in fotnite?");
 lc=q16.toLowerCase();
 if (lc=="rainbow rider") {
 
